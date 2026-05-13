@@ -1,2 +1,2 @@
 # VTuber-1B-LiveChat-Stats
-Big Data Analyitcs, featuring PySpark and Holoviz and Datashader. Analyzing 2021 Live Chat Statistics on various VTuber  groups and channels.
+Big Data Analytics, featuring PySpark and Plotly-Dash. Analyzing 2021 Live Chat Statistics on various VTuber groups and channels.
